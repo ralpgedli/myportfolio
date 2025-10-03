@@ -1,0 +1,51 @@
+h1 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+}
+
+.profile {
+    border-style: dashed; 
+    border-radius: 10px;
+    width: 300px;
+    background-color: lightgreen;
+    text-align: center;
+    box-shadow: 0 4px 8px;
+    height: 400px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 80px;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+.section {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
